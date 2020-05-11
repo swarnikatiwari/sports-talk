@@ -1,6 +1,9 @@
 # Sports Talk
 Text generator using PyTorch RNN architecture
 
+## Current Status
+In development (looking for training corpus)
+
 ## Training corpus
 
 ## References
